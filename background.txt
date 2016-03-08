@@ -1,0 +1,60 @@
+
+          YR1973_2012.SEER9
+        This data is from SEER November 2014 Research Data files
+        from nine SEER registries for 1973-2012.  The SEER 9 registries are
+        Atlanta, Connecticut, Detroit, Hawaii, Iowa,  New Mexico, San
+        Francisco-Oakland, Seattle-Puget Sound, and Utah.  Data are available
+        for cases diagnosed from 1973 and later for these registries with the
+        exception of Seattle-Puget Sound and Atlanta. The Seattle-Puget Sound
+        and Atlanta registries joined the SEER program in 1974 and 1975,
+        respectively. ( YR1973_2012.SEER9 )
+<br />
+http://seer.cancer.gov/manuals/TextData.Readme.txt
+<br />
+<br />
+The pie chart included cancer from the following groups:
+
+<br />
+
+<table style="width:100%">
+  <tr>
+    <td>BREAST</td>
+    <td>Breast</td> 
+  </tr>
+    <tr>
+    <td>COLRECT</td>
+    <td>Colon and Rectum</td> 
+  </tr>
+  <tr>
+    <td>DIGOTHR</td>
+    <td>Other Digestive</td> 
+  </tr>
+  <tr>
+    <td>FEMGEN</td>
+    <td>Female Genital</td> 
+  </tr>
+    <tr>
+    <td>LYMYLEUK</td>
+    <td>Lymphoma of All Sites and Leukemia</td> 
+  </tr>
+  <tr>
+    <td>MALEGEN</td>
+    <td> Male Genital</td> 
+  </tr>
+  <tr>
+    <td>RESPIR</td>
+    <td>Respiratory</td> 
+  </tr>
+    <tr>
+    <td>URINARY</td>
+    <td>Urinary</td> 
+  </tr>
+  <tr>
+    <td>OTHER</td>
+    <td>All Other Sites</td> 
+  </tr>
+</table>
+<br />
+<br />
+
+
